@@ -2,7 +2,7 @@
 let operação1 = (5>20 && 5<2)
 console.log(operação1)
 
-let operação2 = (5===50 || 5==="5")
+let operação2 = (5===5 || 5==="5")
 console.log(operação2)
 
 let operação3 = !20>50
